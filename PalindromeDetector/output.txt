@@ -1,0 +1,4 @@
+Line 1 is a palindrome
+Line 2 is a palindrome
+Line 3 is a palindrome
+Line 4 is NOT a palindrome
